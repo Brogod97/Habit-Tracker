@@ -93,3 +93,12 @@ button {
   font-size: 2rem;
   color: darkred;
 }
+
+/* reset button */
+
+.habits-reset {
+  font-size: 1.5rem;
+  padding: 0.2cm 1em;
+  background-color: green;
+  color: white;
+}
